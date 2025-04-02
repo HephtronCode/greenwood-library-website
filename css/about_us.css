@@ -1,0 +1,98 @@
+body {  
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 14px;
+    margin: 0px;
+    padding: 0px;
+}
+
+#about-head {
+    background-color: #1f6e99;
+    color: white;
+    padding: 10px 0px;
+    text-align: center;
+}
+
+.about-head-container {
+    display: inline-block;
+    margin: 0px 20px;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+#about-head h1 {
+    margin: 0px;
+    font-size: 45px;
+    word-spacing: 5px;
+    letter-spacing: 2px;
+}
+
+.about_us-nav {
+    display: inline-block;
+    margin: 0px 20px;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+.about_us-nav ul {
+    display: inline-block;
+    margin: 0px 20px;
+    padding: 10px 20px;
+    text-align: center;
+    
+}
+
+.about_us-nav li {
+    display: inline-block;
+    margin: 0px 10px;
+    padding: 10px 20px;
+    background-color: #1f6e99;
+}
+
+.about_us-nav a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.about_us-nav ul a:hover {
+    background-color: #7e5e06;
+    color: rgb(9, 8, 8);
+}
+
+section {
+    padding: 20px;
+    margin: 20px;
+    background-color: #f4f4f4;
+    border-radius: 5px;
+}
+
+section h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: #333;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+    text-align: center;
+    text-indent: 0px;
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-weight: bold;
+
+}
+
+section p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #555;
+    margin-bottom: 20px;
+    text-align: justify;
+    text-indent: 2em;
+    text-justify: inter-word;
+    text-decoration: none;
+    text-decoration-color: #1f6e99;
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
